@@ -16,3 +16,4 @@ Aktivasyon Fonksiyonu: Modelde tanh fonksiyonu kullanılmıştır.
 Vektör İşlemleri: Tüm vektörel hesaplamalar (çarpım, toplama, çıkarma) kütüphane bağımsız olarak manuel kodlanmıştır.
 Tam Rapor
 Matematiksel türetimlerin ve detaylı grafik yorumlarının yer aldığı teknik raporun tamamına buradan ulaşabilirsiniz:
+[Raporu Görüntüle](./rapor.pdf)
